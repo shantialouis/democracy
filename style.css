@@ -1,0 +1,14 @@
+/* .navbar-logo {
+  max-width: 100%;
+} */
+
+.masthead {
+  opacity: 0.8;
+  background-color: black;
+  z-index: -1;
+}
+
+.border-top {
+  background-color: #fff;
+  border-radius: 10px 10px 0 0;
+}
